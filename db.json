@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "1e52",
+      "name": "Sanya",
+      "email": "sanya@gmail.com",
+      "role": "CSE",
+      "status": "Active"
+    }
+  ],
+  "roles": [
+    {
+      "id": "2",
+      "name": "Editor",
+      "permissions": [
+        "Read",
+        "Write"
+      ]
+    }
+  ]
+}
